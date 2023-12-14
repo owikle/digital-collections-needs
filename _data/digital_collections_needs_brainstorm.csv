@@ -1,0 +1,110 @@
+role,title,category,objectid,display_template
+Library Leader; Other,fulfill landgrant mission and tell a story,storytelling,dcretreat_001,record
+Patron; Other,easily discoverable,discovery,dcretreat_002,record
+Donor; Other,make the collection I am donating accessible to my family/org. members/public,accessibility,dcretreat_003,record
+Preservationist; Other,available to users in the long term,sustainable,dcretreat_004,record
+Researcher; Other,provide provenance of collections and collection development,provenance,dcretreat_005,record
+Patron; Staff; Other,note how to suggest collection items,collaboration,dcretreat_006,record
+Patron; Staff; Other,easy to access,accessibility,dcretreat_007,record
+Patron; Staff; Other,easy to use,usability,dcretreat_008,record
+Patron; Staff; Other,easy to search,discovery,dcretreat_009,record
+Maintainer; Other,"review usage: collections, subjects, etc.",analytics,dcretreat_010,record
+Donor; Other,share and download my donated materials and reference how frequently they are viewed/seen,collaboration; reuse; analytics,dcretreat_011,record
+Patron; Staff; Other,be downloadable,reuse,dcretreat_012,record
+Researcher; Scholar; Other,inspire and integrate into digital scholarship projects and other research/community partnerships,collaboration; reuse,dcretreat_013,record
+Other,have an intuitive user interface,usability,dcretreat_014,record
+Circulation Staff,know why the site may not be working and when it will be resolved,usability,dcretreat_015,record
+Circulation Staff,"a system easy to navigate with patron, easy to explain",usability,dcretreat_016,record
+Library Leader; Patron,facilitate novel use of cultural heritage materials,collaboration; reuse,dcretreat_017,record
+Patron,facilitate discovery of people in my community and be quick about it,discovery,dcretreat_018,record
+Patron,everything there / transparency on what isn't there,discovery,dcretreat_019,record
+Patron,easy to find what I'm looking for,discovery,dcretreat_020,record
+Patron,fun to explore without a clear research purpose,storytelling,dcretreat_021,record
+Patron,easy to find the platform,discovery,dcretreat_022,record
+Patron,be able to filter collections well,usability,dcretreat_023,record
+Patron,meet my research needs,reuse,dcretreat_024,record
+Patron,linked data; reuse,linked data; reuse,dcretreat_025,record
+Patron,provide easy access to special collections and archival materials,discovery,dcretreat_026,record
+Patron,highlight work of ISU community members (past and present),storytelling,dcretreat_027,record
+Patron,preserve / allow access to fragile materials,discovery; preservation,dcretreat_028,record
+Patron,be easily searchable,discovery,dcretreat_029,record
+Patron,be easy to navigate,usability,dcretreat_030,record
+Patron,"be consolidated in one space, not have to look in multiple places",discovery,dcretreat_031,record
+Patron,easy to find / intuitive interface,discovery; accessibility,dcretreat_032,record
+Patron,use terminology I can relate to or understand,usability,dcretreat_033,record
+Patron,know how digital collections and objects relate to their originals (if surrogates),provenance,dcretreat_034,record
+Patron,be accessible to users,accessibility,dcretreat_035,record
+Patron,easy to search and browse,discovery,dcretreat_036,record
+Patron,"create a sub-set of the repository to easy access, reference, and study",reuse,dcretreat_037,record
+Patron,"tell stories, be contextualized",storytelling,dcretreat_038,record
+Patron,provide easy access to everything so I don't have to travel to the library,accessibility,dcretreat_039,record
+Patron,be used (downloaded) without intervention with library staff,reuse,dcretreat_040,record
+Patron,provide easy access to collection data,reuse,dcretreat_041,record
+IT Staff,be easy to maintain and support,sustainable,dcretreat_042,record
+IT Staff,"if not all in one place, able to be integrated into a single ""view""",discovery,dcretreat_043,record
+IT Staff,load quickly,accessibility,dcretreat_044,record
+IT Staff,require minimal maintenance / security risks,sustainable,dcretreat_045,record
+IT Staff,sustainable system,sustainable,dcretreat_046,record
+IT Staff,have skillsets in house to manage effectively,educational; sustainable,dcretreat_047,record
+IT Staff,be in a place where we can get systems up quickly,sustainable; accessibility,dcretreat_048,record
+IT Staff,indexed on search engines,discovery,dcretreat_049,record
+IT Staff,customizable (responisve to UX studies),storytelling; accessibility; usability,dcretreat_050,record
+IT Staff,filterable to different types,usability,dcretreat_051,record
+IT Staff,described clearly,discovery,dcretreat_052,record
+IT Staff,"make clear distinction between ""available online"" and record only",usability,dcretreat_053,record
+IT Staff,display usage rights and citation information,usability,dcretreat_054,record
+IT Staff,clear ability to download,reuse,dcretreat_055,record
+IT Staff,track statistics,analytics,dcretreat_056,record
+Archivist,invite users to the creation / evolution of digital collections,collaboration,dcretreat_057,record
+Archivist,an avenue for further discovery,discovery,dcretreat_058,record
+Archivist,show off our major collecting areas and potential donors and any stakeholders,storytelling,dcretreat_059,record
+Archivist,be useful teaching and learning resources for k-12 and university classes,educational,dcretreat_060,record
+Archivist,exist where all things can be called up from one search interface,discovery,dcretreat_061,record
+Archivist,have easily created/interpreted use statistics,analytics,dcretreat_062,record
+Archivist,highlight lesser known collections of high research value,storytelling,dcretreat_063,record
+Archivist,have OCR searching capability,discovery,dcretreat_064,record
+Archivist,"by dynamic, able to meet patrons' changing needs quickly",usability,dcretreat_065,record
+Archivist,represent my collections online to researchers,collaboration; storytelling,dcretreat_066,record
+Archivist,highlight collections,storytelling,dcretreat_067,record
+Archivist,connected to each other,linked data; discovery,dcretreat_068,record
+Archivist,usable by patrons,usability,dcretreat_069,record
+Archivist,well-cited by patrons,discovery,dcretreat_070,record
+Archivist,low/no barrier to access for patrons,accessibility,dcretreat_071,record
+Archivist,easy to use by patrons,usability,dcretreat_072,record
+Archivist,well preserved,accessibility,dcretreat_073,record
+Archivist,accessible to patrons,accessibility,dcretreat_074,record
+Archivist,searchable,discovery,dcretreat_075,record
+Archivist,browseable,discovery,dcretreat_076,record
+Archivist,connected to physical materials,provenance; linked data,dcretreat_077,record
+Archivist,easy to upload/create,storytelling; provenance,dcretreat_078,record
+Archivist,varied and representative of the collections,provenance,dcretreat_079,record
+Archivist,"quick reference answers (yearbooks, commencement programs, etc.)",discovery,dcretreat_080,record
+Archivist,easy to direct people to,discovery; usability,dcretreat_081,record
+Archivist,gather usage statistics,analytics,dcretreat_082,record
+Archivist,centralized,discovery,dcretreat_083,record
+Archivist,provide access to fragile and/or high use collections,preservation; discovery,dcretreat_084,record
+Metadata Creator,"help users find, select, identify, obtain, and explore digital objects",discovery,dcretreat_085,record
+Metadata Creator,link objects to related entities in other collections and on the web,linked data,dcretreat_086,record
+Metadata Creator,"contain descriptive, administrative, technical, and structural metadata",discovery; preservation,dcretreat_087,record
+Metadata Creator,clean data,discovery; preservation,dcretreat_088,record
+Metadata Creator,support fine-grained metadata,discovery; preservation,dcretreat_089,record
+Metadata Creator,easy to edit,usability,dcretreat_090,record
+Metadata Creator,enable bulk creation and updates of metadata,usability,dcretreat_091,record
+Metadata Creator,"collate materials of similar type, subject, creator, etc.",discovery,dcretreat_092,record
+Repository Manager,manage/admin the system effectively,sustainable,dcretreat_093,record
+Repository Manager,be able to complete projects in timely manner,sustainable,dcretreat_094,record
+Repository Manager,system or ecosytem in place where I can do my projects without the worry of tech requirements,sustainable,dcretreat_095,record
+Repository Manager,invite collaboration,collaboration,dcretreat_096,record
+Repository Manager,sustainable and humane,sustainable,dcretreat_097,record
+Repository Manager,produced by data that is in the library's control,sustainable,dcretreat_098,record
+Repository Manager,provide granular access control,usability,dcretreat_099,record
+Repository Manager,easily migratable,sustainable,dcretreat_100,record
+Repository Manager,make it easy to manage objects and collections,sustainable; usability,dcretreat_101,record
+Repository Manager,"clear error messages for common errors when ingesting, making changes, etc., and a way to check beforehand",usability,dcretreat_102,record
+Repository Manager,an opportunity to learn and build on transferable digital skills,sustainable; educational,dcretreat_103,record
+Repository Manager,verify and maintin the collections' digital objects' authenticity and integrity,sustainable; usability,dcretreat_104,record
+Repository Manager,easy way to gather usage statistics - especially for specific collections / objects / subjects,analytics,dcretreat_105,record
+Repository Manager,"create and manage roles and permissions, to include write/edit permissiosn to specific collections",usability,dcretreat_106,record
+Repository Manager,"consistency across all collections, and also enhance the user interface in specific cases",usability,dcretreat_107,record
+Repository Manager,display objects and metadata hosted elsewhere,collaboration; linked data,dcretreat_108,record
+Repository Manager,ability to recreate the digital collections if the original disappears,sustainable,dcretreat_109,record
